@@ -84,7 +84,7 @@ if st.session_state.page == "Home":
     # Add app icon below social links
     st.markdown("""
         <div style='text-align: center;'>
-            <img src='https://raw.githubusercontent.com/GxAditya/Waste-Classification/main/waste_icon.png' class='app-icon'>
+            <img src='https://raw.githubusercontent.com/GxAditya/Waste-Classification/main/waste.png' class='app-icon'>
         </div>
     """, unsafe_allow_html=True)
     
