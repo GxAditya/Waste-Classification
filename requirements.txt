@@ -3,4 +3,7 @@ tensorflow
 numpy
 Pillow
 pandas
-opencv
+opencv-python
+scikit-learn
+scipy
+matplotlib
