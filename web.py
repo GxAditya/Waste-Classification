@@ -51,8 +51,8 @@ st.markdown("""
         .app-icon {
             display: block;
             margin: 0 auto;
-            width: 80px;
-            height: 80px;
+            width: 100px;
+            height: 100px;
             padding: 10px;
         }
         .info-text {
