@@ -21,3 +21,8 @@ A Streamlit web application that classifies waste images as either Organic or Re
 
 1. Clone this repository
 2. Install the required packages:
+
+
+# Deployement
+Deployed on streamlit community cloud 
+Access it at : https://wasteclassification2645.streamlit.app/
